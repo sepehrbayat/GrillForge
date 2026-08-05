@@ -1,0 +1,3 @@
+# GrillForge
+
+Temporary initialization commit.
